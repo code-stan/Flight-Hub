@@ -1,0 +1,36 @@
+/* .header{
+    margin-bottom: clamp(5vh, 5vw, 15vh);
+} */
+.pre-nav{
+    position: relative;
+}
+.login-logo{
+    position: absolute;
+    left: 0;
+}
+.tnc{
+    margin-bottom: 1.5rem;
+    position: relative;
+}
+.tnc-span{
+    position: absolute;
+    right: 0;
+}
+.tnc-span a{
+    font-size: 1.6rem;
+    font-weight: 500;
+}
+.user-sign-in a{
+    font-weight: 500;
+}
+
+.has-account{
+    margin-top: 2%;
+}
+.signups-heading{
+    margin-bottom: 10%;
+}
+
+#email-input{
+    margin-bottom: 2px;
+}
